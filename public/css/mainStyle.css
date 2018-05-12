@@ -1,0 +1,64 @@
+#cards{
+    margin:20px;
+    padding:10px;
+}
+
+.card{
+    height:200px;
+}
+
+#sidebar{
+    margin:10px;
+    padding:10px;
+}
+
+.pull-right{
+    float: right;
+}
+
+
+
+.card-img{
+    width:180px;
+    height:180px;
+}
+
+.buttons{
+    margin:5px;
+}
+
+#images{
+    margin: 50px 0px 50px 0px;
+}
+
+table.fixed{
+    table-layout: fixed; 
+    width: 100%;
+}
+
+.techSpecTD2{
+    word-wrap: break-word;
+}
+
+.dropdown-menu.show{
+    padding:10px;
+}
+
+#edit-button,
+#delete-button{
+    height: 175px;
+}
+
+.favnotactive{
+    background: url('../images/bookmark-.png');
+    display: block;
+    width: 24px;
+    height: 24px;
+}
+
+.favactive{
+    background: url('../images/bookmark+.png');
+    display: block;
+    width: 24px;
+    height: 24px;
+}
